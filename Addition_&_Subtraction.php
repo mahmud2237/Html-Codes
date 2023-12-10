@@ -6,7 +6,7 @@ evaluates to 12, and the number 12 can’t appear anywhere in your code!
 */
 echo 7+5;
 //echo "\n";
-echo '<br/>;
+echo '<br/>';  //for newline
 echo 19-7;  
 ?>
   
