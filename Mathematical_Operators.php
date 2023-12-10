@@ -29,3 +29,4 @@ If everything went as it should, $answer should be 1. No matter what your origin
 */   
 $answer -= $my_num;
 echo $answer;
+?>

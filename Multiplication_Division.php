@@ -16,3 +16,4 @@ $days_per_language = $days / $num_languages;
 4. Print your $days_per_language variable to the terminal.
 */
 echo $days_per_language;
+?>

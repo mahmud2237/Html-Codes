@@ -25,3 +25,4 @@ echo "The world's most beloved $noun was very $adjective and loved to $verb ever
 properly. Fix the line of code and uncomment it.
 */
 echo "\nI have always been obsessed with {$noun}s. I'm {$adjective}ish. I'm always {$verb}ing.";
+?>

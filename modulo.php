@@ -7,3 +7,4 @@ $Total_students = 82;
 $students_group = 6;
 $student_left_without_group = $Total_students % $students_group;
 echo $student_left_without_group;
+?>

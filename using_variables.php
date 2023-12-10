@@ -9,7 +9,7 @@ $language = "Arabic";
 echo "My name is " . $name;
 //3.Use echo to print a string starting with a newline (\n) with $language variable concatenated to it.
 echo "\n" . "I am learning " . $language;
-  
+?>  
   
 
 

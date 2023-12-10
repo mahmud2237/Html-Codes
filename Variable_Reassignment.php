@@ -21,3 +21,4 @@ containing the $old_favorite variable.
 */
 echo "\nBut now my favorite is $old_favorite.";    
 
+?>

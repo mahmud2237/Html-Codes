@@ -15,3 +15,4 @@ $order .= "!";
 echo "\nThe order is: $very_bad_unclear_name.";
 //print total price here
 echo "\nThe total price is for: $order";
+?>

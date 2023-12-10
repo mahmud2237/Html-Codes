@@ -11,5 +11,6 @@ echo "\n";
 /*
 Next, declare a variable with any name you’d like and assign a floating point value to it. Use echo to print this new variable to the terminal.
 */ 
- $my_float = 65.334;
- echo $my_float;
+$my_float = 65.334;
+echo $my_float;
+?>

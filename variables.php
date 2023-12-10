@@ -14,3 +14,4 @@ echo $biography;
 //3.Create a variable $favorite_food and assign to it the string "\n", "tur", "duck", and "en" concatenated together.
 $favorite_food = "\n" . "tur" . "duck" . "en";
 echo $favorite_food;
+?>

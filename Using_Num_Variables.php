@@ -8,3 +8,4 @@ $this_month = 1089.98;
 2.Use echo to print the difference between last month’s spending and this month’s.
 */
 echo $last_month - $this_month;  
+?>

@@ -8,3 +8,4 @@ Use echo to print a final portmanteau by concatenating these four strings "\n", 
 Make sure to include a semicolon after the statement. 
 */
 echo "\n" . "M" . "ah" . "mud";
+?>

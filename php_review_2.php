@@ -43,3 +43,4 @@ echo "Look! It still works!\n";
 echo $answer;
 
 echo "\nCool?\nIt's a little cool, right?";
+?>
